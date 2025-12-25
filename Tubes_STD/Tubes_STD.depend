@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1765969516 source:d:\kuliah\semester 9\std ( lagi)\tubes_std\customer.cpp
+	"customer.h"
+	<fstream>
+	<sstream>
+
+1765969501 d:\kuliah\semester 9\std ( lagi)\tubes_std\customer.h
+	<iostream>
+	<string>
+
+1765969490 source:d:\kuliah\semester 9\std ( lagi)\tubes_std\hotel.cpp
+	"hotel.h"
+	<fstream>
+	<sstream>
+
+1765969556 source:d:\kuliah\semester 9\std ( lagi)\tubes_std\main.cpp
+	<iostream>
+	<fstream>
+	"customer.h"
+	"hotel.h"
+	"booking.h"
+
+1765969480 d:\kuliah\semester 9\std ( lagi)\tubes_std\hotel.h
+	<iostream>
+	<string>
+
+1765969534 d:\kuliah\semester 9\std ( lagi)\tubes_std\booking.h
+	<iostream>
+	<string>
+
+1765969543 source:d:\kuliah\semester 9\std ( lagi)\tubes_std\booking.cpp
+	"booking.h"
+	<fstream>
+
